@@ -27,4 +27,4 @@ branches:
     - master
 env:
  global:
-   - GH_REF: github.com/AtomAwa/JinYuSon.git
+   - GH_REF: github.com/AtomAwa/MyProject.git
