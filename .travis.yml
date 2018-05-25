@@ -19,12 +19,12 @@ after_script:
   - git config user.email "1206192226@qq.com"
   - git add .
   - git commit -m "Update docs"
-  - git push --force --quiet "https://${GH_Token}@${GH_REF}" master:code
+  - git push --force --quiet "https://${GH_Token}@${GH_REF}" master:master
 # E: Build LifeCycle
 
 branches:
   only:
-    - master
+    - code
 env:
  global:
    - GH_REF: github.com/AtomAwa/JinYuSon.git
