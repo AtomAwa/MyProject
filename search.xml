@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[ismyfsdfdsilsdfe]]></title>
+    <url>%2FJinYuSon%2Funcategorized%2Fismyfsdfdsilsdfe.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[ismyfilsdfe]]></title>
+    <url>%2FJinYuSon%2Funcategorized%2Fismyfilsdfe.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[ismyfile]]></title>
+    <url>%2FJinYuSon%2Funcategorized%2Fismyfile.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo Create Tags]]></title>
+    <url>%2FJinYuSon%2Funcategorized%2Fhexo-tags.html</url>
+    <content type="text"><![CDATA[在Hexo 添加 Tags新建「标签」页面，并在菜单中显示「标签」链接。「标签」页面将展示站点的所有标签，若你的所有文章都未包含标签，此页面将是空的。 底下代码是一篇包含标签的文章的例子： 在文章中添加标签12345---title: Hexo Create Tagstags:- hexo tags--- 如果你的Hexo 还未生成Tags页面请先使用命令生成一个Tags macwindow1INFO Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop. 12]]></content>
+      <tags>
+        <tag>hexo tags</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[git上传到github教程]]></title>
+    <url>%2FJinYuSon%2Fgit%E6%95%99%E7%A8%8B%2Fgit%E4%B8%8A%E4%BC%A0%E5%88%B0github%E6%95%99%E7%A8%8B.html</url>
+    <content type="text"><![CDATA[or create a new repository on the command lineecho “# JinYuCode” &gt;&gt; README.mdgit initgit add README.mdgit commit -m “first commit”git remote add origin https://github.com/AtomAwa/JinYuCode.gitgit push -u origin master or push an existing repository from the command linegit remote add origin https://github.com/AtomAwa/JinYuCode.gitgit push -u origin master]]></content>
+      <categories>
+        <category>git教程</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo本地架设教程]]></title>
+    <url>%2FJinYuSon%2FHexo%E6%95%99%E7%A8%8B%2FHexo%E6%9C%AC%E5%9C%B0%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B.html</url>
+    <content type="text"><![CDATA[本文档将帮助您快速上手在本地搭建Hexo服务器。如果您在使用过程中遇到问题,可以在评论区留言 什么是Hexo (What?)Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页 安装前提 (Ready) 你的电脑需要安装Nodejs环境 Nodejs下载 Git环境 Git下载 安装完成后 最好检验下是否安装成功 开始安装 (Do)所有必备的应用程序安装完成后，即可使用 npm 安装 Hexo 1$ npm install -g hexo-cli]]></content>
+      <categories>
+        <category>Hexo教程</category>
+      </categories>
+  </entry>
+</search>
