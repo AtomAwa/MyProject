@@ -28,4 +28,4 @@ branches:
     - code
 env:
  global:
-   - GH_REF: github.com/AtomAwa/MyProject.git
+   - GH_REF: github.com/AtomAwa/JinYuSon.git
