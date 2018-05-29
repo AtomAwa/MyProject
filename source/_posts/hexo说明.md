@@ -1,5 +1,5 @@
 ---
-title: git上传到github教程
+title: hexo说明
 date: 2018-05-24 22:48:15
 tags:
 categories: "git教程"
