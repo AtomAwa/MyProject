@@ -28,6 +28,18 @@ Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（�
 $ npm install -g hexo-cli
 ```
 
+<!-- tab mac -->
+{% code %}
+    INFO  Hexo is running at http://0.0.0.0:4000/. Press Ctrl+C to stop.
+{% endcode %}
+
+
+<!-- endtab -->
+
+<!-- tab window -->
+
+<!-- endtab -->
+
 
 
 

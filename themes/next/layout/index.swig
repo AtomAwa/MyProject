@@ -9,6 +9,11 @@
 {% endblock %}
 
 {% block content %}
+  <div class="input-group">
+  <span class="input-group-addon" id="basic-addon1">@</span>
+  <input type="text" class="form-control" placeholder="Username" aria-describedby="basic-addon1">
+</div>
+
   <section id="posts" class="posts-expand">
     {% for post in page.posts %}
       {{ post_template.render(post, true) }}
